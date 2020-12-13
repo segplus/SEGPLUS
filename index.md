@@ -1,25 +1,23 @@
-## Welcome to GitHub Pages
+## 个人信息分享
 
 You can use the [editor on GitHub](https://github.com/segplus/SEGPLUS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Hi, I&#39;m baiheinet<
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is dongke, an engineer at SEGplus(赛鸽+)
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Here are a few links that might interest you:
 
-1. Numbered
-2. List
+- [五分钟掌握umi.js最小知识体系.](https://www.yuque.com/umijs/umi/dvalore)
+- [dva.js 知识导图](https://github.com/dvajs/dva-knowledgemap)
+- [必备网络请求库Axios](https://www.kancloud.cn/yunye/axios/234845)
+
 
 **Bold** and _Italic_ and `Code` text
 
@@ -35,3 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[http://beian.miit.gov.cn](吉ICP备2020007457)
