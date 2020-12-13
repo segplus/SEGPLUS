@@ -4,12 +4,11 @@ You can use the [editor on GitHub](https://github.com/segplus/SEGPLUS/edit/gh-pa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Hi, I&#39;m baiheinet<
+### Hi, I&#39;m baiheinet
 
 My name is dongke, an engineer at SEGplus(赛鸽+)
 
-```markdown
-Syntax highlighted code block
+
 
 
 ### Here are a few links that might interest you:
@@ -17,14 +16,9 @@ Syntax highlighted code block
 - [五分钟掌握umi.js最小知识体系.](https://www.yuque.com/umijs/umi/dvalore)
 - [dva.js 知识导图](https://github.com/dvajs/dva-knowledgemap)
 - [必备网络请求库Axios](https://www.kancloud.cn/yunye/axios/234845)
+- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
